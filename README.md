@@ -71,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # MovieLand
 This is a React Website which fetches the data of various movies and you can easily find details about any movie using it.
 
-It fetches the data of various movies using a API call omdbapi.
